@@ -1,7 +1,7 @@
-import input from './input.js'
+// import input from '../input.js'
 
-let text = await input('Adjon meg a szöveget (min 20 karakter!): ');
-
+//let text = await input('Adjon meg a szöveget (min 20 karakter!): ');
+let text = 'asdfASDFeadfedfaefdae';
 //1
 console.log(text.slice(0,5));
 
